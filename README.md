@@ -8,7 +8,6 @@ I enjoy building systems from the ground up, writing clean and maintainable code
 ## 🧑‍💻 About Me  
 - 🌍 Based in **Amman, Jordan**  
 - 💼 Currently working at **Smart Eye** on an enterprise IoT water management platform  
-- 💡 Passionate about **real-time systems, data visualization, and performance optimization**  
 - 📚 Always eager to **learn new tools, frameworks, and best practices**  
 
 ---
